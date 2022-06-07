@@ -1,0 +1,12 @@
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\bin\Debug\net6.0\GestaoFinanceira.App.deps.json
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\bin\Debug\net6.0\GestaoFinanceira.App.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\bin\Debug\net6.0\GestaoFinanceira.App.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.csproj.AssemblyReference.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.AssemblyInfoInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.AssemblyInfo.cs
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.csproj.CoreCompileInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\refint\GestaoFinanceira.App.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\GestaoFinanceira.App.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.App\obj\Debug\net6.0\ref\GestaoFinanceira.App.dll

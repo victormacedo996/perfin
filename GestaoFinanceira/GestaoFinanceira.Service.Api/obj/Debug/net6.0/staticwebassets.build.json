@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G8iP+/4iSXlY/rqWhsNn6nNgqnbojbr6DBM7dfZsoOg=",
+  "Source": "GestaoFinanceira.Service.Api",
+  "BasePath": "_content/GestaoFinanceira.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Infra.deps.json
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Infra.runtimeconfig.json
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Infra.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Infra.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Domain.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\bin\Debug\net6.0\GestaoFinanceira.Domain.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.csproj.AssemblyReference.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.AssemblyInfoInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.AssemblyInfo.cs
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.csproj.CoreCompileInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.csproj.CopyComplete
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\refint\GestaoFinanceira.Infra.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\GestaoFinanceira.Infra.genruntimeconfig.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Infra\obj\Debug\net6.0\ref\GestaoFinanceira.Infra.dll

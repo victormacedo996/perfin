@@ -1,0 +1,12 @@
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\bin\Debug\net6.0\GestaoFinanceira.Domain.deps.json
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\bin\Debug\net6.0\GestaoFinanceira.Domain.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\bin\Debug\net6.0\GestaoFinanceira.Domain.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.csproj.AssemblyReference.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.AssemblyInfoInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.AssemblyInfo.cs
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\refint\GestaoFinanceira.Domain.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\GestaoFinanceira.Domain.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Domain\obj\Debug\net6.0\ref\GestaoFinanceira.Domain.dll

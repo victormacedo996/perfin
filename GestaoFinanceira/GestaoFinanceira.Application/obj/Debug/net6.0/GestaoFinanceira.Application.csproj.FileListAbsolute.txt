@@ -1,0 +1,15 @@
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\bin\Debug\net6.0\GestaoFinanceira.Application.deps.json
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\bin\Debug\net6.0\GestaoFinanceira.Application.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\bin\Debug\net6.0\GestaoFinanceira.Application.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.csproj.AssemblyReference.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.AssemblyInfoInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.AssemblyInfo.cs
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.csproj.CoreCompileInputs.cache
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\refint\GestaoFinanceira.Application.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\ref\GestaoFinanceira.Application.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\bin\Debug\net6.0\GestaoFinanceira.Domain.dll
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\bin\Debug\net6.0\GestaoFinanceira.Domain.pdb
+C:\Users\DiogoF\Documents\Projetos\EmpresaJunior\GestaoFinanceira\GestaoFinanceira.Application\obj\Debug\net6.0\GestaoFinanceira.Application.csproj.CopyComplete
